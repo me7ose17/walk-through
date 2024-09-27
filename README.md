@@ -11,5 +11,4 @@ This project aims to provide a codebase focused on street similarity and uniquen
    
 3. **Function**: Involves usage and functional characteristics of streets, implementing sequences based on street functions, such as commercial activities and residential areas. Then compares similarities between different streets
 
-## Experimental Data
-To support our research, we utilized experimental data and results from Chengdu. This data encompasses street features, similarity, and uniqueness indicators from various regions of Chengdu.
+
