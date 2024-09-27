@@ -9,7 +9,7 @@ This project aims to provide a codebase focused on street similarity and uniquen
    
 2. **Safe Perception**: Focuses on safety perception characteristics of streets, using scoring to construct sequences and compare similarities.
    
-3. **Function**: Involves usage and functional characteristics of streets, implementing sequences based on street functions, such as commercial activities and residential areas.
+3. **Function**: Involves usage and functional characteristics of streets, implementing sequences based on street functions, such as commercial activities and residential areas. Then compares similarities between different streets
 
 ## Experimental Data
 To support our research, we utilized experimental data and results from Chengdu. This data encompasses street features, similarity, and uniqueness indicators from various regions of Chengdu.
